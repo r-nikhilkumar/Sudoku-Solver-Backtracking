@@ -1,2 +1,2 @@
 # Project
-Java project using backtracking
+DSA Project using backtracking
